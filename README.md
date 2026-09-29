@@ -113,6 +113,6 @@ python tools/audit_release.py
 ```
 
 Review `docs/PUBLISH_CHECKLIST.md` before publishing. This public source release
-currently has no open-source license; see `LICENSE-PENDING.md`. Detector
+currently has no open-source license; see `RIGHTS_NOTICE.md`. Detector
 environments remain externally owned; do not claim end-to-end reproduction
 based on the synthetic tests.

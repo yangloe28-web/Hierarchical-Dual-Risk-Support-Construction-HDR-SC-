@@ -6,7 +6,7 @@ Review these items before publishing or updating the public repository.
       research repository's `.git` directory.
 - [ ] Confirm institutional intellectual-property requirements.
 - [ ] If an open-source release is intended, obtain approval and replace
-      `LICENSE-PENDING.md` with an approved `LICENSE` file. Otherwise, clearly
+      `RIGHTS_NOTICE.md` with an approved `LICENSE` file. Otherwise, clearly
       describe the repository as publicly visible source without a license.
 - [ ] Confirm that no third-party detector source has been copied into this
       repository.
