@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hdr-sc-support-construction"
+version = "0.2.0"
+description = "Hierarchical dual-risk support construction for anomaly detection"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24,<3",
+]
+
+[project.scripts]
+hdr-sc-select = "hdr_sc.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

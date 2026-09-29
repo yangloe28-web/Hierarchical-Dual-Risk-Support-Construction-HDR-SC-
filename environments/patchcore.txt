@@ -1,0 +1,7 @@
+-r ../requirements.txt
+torch
+torchvision
+opencv-python
+Pillow
+tqdm
+

@@ -1,0 +1,12 @@
+-r ../requirements.txt
+torch
+torchvision
+transformers
+opencv-python
+kornia
+pandas
+scikit-learn
+Pillow
+anomalib
+tqdm
+

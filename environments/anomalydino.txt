@@ -1,0 +1,15 @@
+-r ../requirements.txt
+torch
+torchvision
+opencv-python
+matplotlib
+Pillow
+numpy>=1.26,<2
+scipy
+scikit-learn
+faiss-cpu
+tqdm
+tifffile
+PyYAML
+pandas
+
